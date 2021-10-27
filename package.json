@@ -1,0 +1,20 @@
+{
+  "name": "rabbit-nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wonder",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts": "^0.2.2",
+    "@openzeppelin/contracts": "^4.3.2",
+    "dotenv": "^10.0.0",
+    "truffle": "^5.4.15",
+    "truffle-flattener": "^1.5.0",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "truffle-plugin-verify": "^0.5.15"
+  }
+}
